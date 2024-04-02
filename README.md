@@ -1,4 +1,6 @@
+[![Build and Test Docker Image](https://github.com/bwbioinfo/pychopper-docker-cwl/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/bwbioinfo/pychopper-docker-cwl/actions/workflows/build-and-test.yml)
 [![Build and Push Docker Image](https://github.com/bwbioinfo/pychopper-docker-cwl/actions/workflows/build-and-push.yml/badge.svg)](https://github.com/bwbioinfo/pychopper-docker-cwl/actions/workflows/build-and-push.yml)
+[![Test CWL Files With Singularity](https://github.com/bwbioinfo/pychopper-docker-cwl/actions/workflows/singularity-test.yml/badge.svg)](https://github.com/bwbioinfo/pychopper-docker-cwl/actions/workflows/singularity-test.yml)
 
 # tool-docker-cwl
 
